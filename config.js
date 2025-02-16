@@ -1,10 +1,10 @@
-global.owner = ['6288989721627']  
-global.mods = ['6288989721627'] 
-global.prems = ['6288989721627']
+global.owner = ['19419318284']  
+global.mods = ['19419318284'] 
+global.prems = ['19419318284']
 global.nameowner = 'Manz'
-global.numberowner = '6288989721627' 
+global.numberowner = '19419318284' 
 global.namebot = 'ManzMD'
-global.nomorown = '6288989721627'
+global.nomorown = '19419318284'
 global.mail = 'manzxd@gmail.com' 
 global.gc = 'https://chat.whatsapp.com/CP5mV2D9IO730HpBgmkuyi'
 global.instagram = 'https://instagram.com/prm2.0'
